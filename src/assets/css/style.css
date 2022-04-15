@@ -1,0 +1,27 @@
+#wrapper #content-wrapper {
+    background-color: #CEE5D0;
+}
+.bg-gradient-secondary {
+    background-color: #FF7070;
+    background-image: linear-gradient(180deg,#FF7070 10%,#ab3f3f 100%);
+}
+
+.bg-dark {
+    background-color: #FF7070!important;
+}
+
+.text-success {
+    color: #536FFF!important;
+}
+
+.border-left-success {
+    border-left: 0.25rem solid #536FFF!important;
+}
+
+.card{
+    border-radius: 15px;
+}
+
+.tabla{
+    margin:20px;
+}
